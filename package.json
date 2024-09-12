@@ -18,7 +18,9 @@
     "classnames": "^2.5.1",
     "isbot": "^4",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "semantic-ui-react": "^2.1.5",
+    "semantic-ui-css": "^2.5.0"
   },
   "devDependencies": {
     "@remix-run/dev": "^2.9.2",
@@ -26,7 +28,7 @@
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
     "@typescript-eslint/eslint-plugin": "^7.13.1",
-    "@wixc3/react-board": "^3.0.0",
+    "@wixc3/react-board": "^3.0.1",
     "eslint": "^8.56.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-import-resolver-typescript": "^3.6.1",
@@ -38,7 +40,8 @@
     "typescript": "^5.5.2",
     "vite": "^5.3.1",
     "vite-plugin-svgr": "^4.2.0",
-    "vite-tsconfig-paths": "^4.3.2"
+    "vite-tsconfig-paths": "^4.3.2",
+    "@codux-boards/react-semantic": "1.0.7"
   },
   "engines": {
     "node": ">=18.0.0"
